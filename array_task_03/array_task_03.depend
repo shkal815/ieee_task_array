@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695866251 source:c:\users\user1\downloads\my_github\ieee_task_array\array_task_03\main.c
+	<stdio.h>
+	<stdlib.h>
+
